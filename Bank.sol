@@ -4,7 +4,7 @@ pragma solidity ^0.8.18;
 
 import "./Token.sol";
 
-contract TokenBank {
+contract TokenBank { 
    
    MyToken public token;
 
